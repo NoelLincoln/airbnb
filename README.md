@@ -1,4 +1,4 @@
-# freshbnb (airbnb like style) Repo
+# (airbnb like style) Repo
 
 > Users can be hosts, rent apartments and more.
 
