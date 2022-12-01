@@ -1,0 +1,24 @@
+# freshbnb (airbnb like style) Repo
+
+> Users can be hosts, rent apartments and more.
+
+## Usage
+
+```
+# Install dependencies in backend
+cd backend
+npm install
+
+# Install dependencies in frontend
+cd frontend
+npm install
+
+
+# First run server (:3001)
+npm run dev
+
+# Then run client (:3000)
+npm start
+
+# Now (Visit http://localhost:3000)
+```
